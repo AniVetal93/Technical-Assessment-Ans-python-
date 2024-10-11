@@ -1,1 +1,0 @@
-# Technical-Assessment-Ans-python-
